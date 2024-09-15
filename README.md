@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roshan232
-- ❤️ I'm from Rajbiraj,Siraha 
+- ❤️ I'm from Rajbiraj
 - 🌱 I’m currently learning AI,ML and Tensorflow
 - 💞️ I’m looking to collaborate on C,C++,Python,Ruby,JS in Desktop Apps
 <!---
